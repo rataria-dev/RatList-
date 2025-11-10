@@ -1,7 +1,5 @@
 📝 Lista de Tarefas (To-Do List)
 
-![ScreenShot do programa](Captura de tela 2025-11-19 101919.png)
-
 Uma aplicação de desktop simples e moderna para gerenciamento de tarefas, desenvolvida em Python. Este projeto utiliza o CustomTkinter para garantir uma interface visual limpa e a capacidade de alternar entre temas claro/escuro (embora o tema escuro esteja definido por padrão).
 
 O aplicativo salva automaticamente suas tarefas em um arquivo local, garantindo que você nunca perca seu progresso.
